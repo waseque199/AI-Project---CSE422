@@ -1,1 +1,1 @@
-# AI-Project---CSE422
+# AI-Project-CSE422
